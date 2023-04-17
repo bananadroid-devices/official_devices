@@ -1,0 +1,20 @@
+{
+   "error": false,
+   "version": "13",
+   "url": "https://sourceforge.net/projects/bananadroid/files/RMX2020/vanilla/BananaDroid-Tanduk-RMX2020-OFFICIAL-20230416-Vanilla.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/RMX2020/BananaDroid-Tanduk-RMX2020-OFFICIAL-20230416-Vanilla.zip",
+   "datetime": 1681653601,
+   "filehash": "45835f79d5b9916b3f52596e58f4ebef",
+   "filename": "BananaDroid-Tanduk-RMX2020-OFFICIAL-20230416-Vanilla.zip",
+   "id": "3242db127ad387e45394c6ac1f6d54ffba8c3504aa7d52369978bd03380e9c25",
+   "size": 1307334261,
+   "maintainers": [
+        {
+           "github_username": "Willylakshit",
+           "name": "WillyS"
+       }
+   ],
+   "donate_url": "https://paypal.me/travarilo",
+   "website_url": "https://bananadroid.com",
+   "forum_url": "https://t.me/bananadroid"
+}
