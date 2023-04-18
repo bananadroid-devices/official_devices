@@ -1,0 +1,21 @@
+{
+  "error": false,
+   "version": "13",
+   "url": 
+"https://sourceforge.net/projects/bananadroid/files/G/BananaDroid-Tanduk-G-OFFICIAL-20230418-GApps.zip",
+   "github_releases_url":
+   "https://sourceforge.net/projects/bananadroid/files/G/BananaDroid-Tanduk-G-OFFICIAL-20230418-GApps.zip",
+   "datetime": 1681798004,
+   "filehash": "480452094e6ffd84cd6e56097ea204c5",
+   "filename": "BananaDroid-Tanduk-G-OFFICIAL-20230418-GApps.zip",
+   "id": "1b666baffcc792830a2372501e866c4199c5c0a4ef8893fc818e9bd133d7dd1a",
+   "size": 1584489228,
+   "maintainers": [
+        {
+           "github_username": "archero32",
+           "name": "Lalit"
+       }
+   ],
+   "website_url": "https://bananadroid.com",
+   "forum_url": "https://t.me/bananadroid"
+}
