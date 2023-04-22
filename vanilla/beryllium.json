@@ -1,13 +1,13 @@
 {
    "error": false,
    "version": "13",
-   "url": "https://sourceforge.net/projects/bananadroid/files/beryllium/BananaDroid-Tanduk-beryllium-OFFICIAL-20230420-Vanilla.zip",
-   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/beryllium/BananaDroid-Tanduk-beryllium-OFFICIAL-20230420-Vanilla.zip",
-   "datetime": 1681745288,
-   "filehash": "f4885ee626da9229a007d8c5ebef695f",
-   "filename": "BananaDroid-Tanduk-beryllium-OFFICIAL-20230420-Vanilla.zip",
-   "id": "af992fa9359961b8cff5b0966020a52485a8251fab585e11522236f209f5def5",
-   "size": 1288776968,
+   "url": "https://sourceforge.net/projects/bananadroid/files/beryllium/BananaDroid-Tanduk-beryllium-OFFICIAL-20230422-Vanilla.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/beryllium/BananaDroid-Tanduk-beryllium-OFFICIAL-20230422-Vanilla.zip",
+   "datetime": 1682094689,
+   "filehash": "b7be23fbe931ab822155a083af8a9a27",
+   "filename": "BananaDroid-Tanduk-beryllium-OFFICIAL-20230422-Vanilla.zip",
+   "id": "9c536941a4230633194688e316ff05eddc60018bb75db3b2ad7667a5a6b298d3",
+   "size": 1288392798,
    "maintainers": [
         {
            "github_username": "zkyzzz",
