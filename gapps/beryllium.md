@@ -1,6 +1,29 @@
 |==========| POCO F1 - Beryllium |==========|
 
 BananaDroid | Official
+Build date: 22/04/2023
+by @zkyzzz
+
+Notes:
+- GApps & Vanilla build
+- SELinux enforcing
+- Safetynet pass by default
+- Latest System-Ext TWRP by Reignz is MANDATORY
+
+Hotfix Update:
+- Fixed Sound & Vibration Settings
+
+Thanks To:
+• Allah SWT
+• BananaDroid Team
+• #xisan, #baka-hokage, #Excraze
+• #xyz_sourav, #RahulGorai
+• #Reignz3 for kernel
+• Testers
+
+|==========| POCO F1 - Beryllium |==========|
+
+BananaDroid | Official
 Build date: 20/04/2023
 by @zkyzzz
 
