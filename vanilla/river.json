@@ -1,0 +1,19 @@
+{
+   "error": false,
+   "version": "13",
+   "url": "https://sourceforge.net/projects/bananadroid/files/river/banana_river-ota-eng.fpsensor.zip/download",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/river/banana_river-ota-eng.fpsensor.zip/download",
+   "datetime": 1682174907,
+   "filehash": "51fb5cc8a1a6ba9750ef7edb4b394e92",
+   "filename": "banana_river-ota-eng.fpsensor.zip",
+   "id": "20fe4576708a4d000f80faa4207538779b1929234aa8b27d70ea5b2249f7ffa0",
+   "size": 964995819,
+   "maintainers": [
+        {
+           "github_username": "FPSensor",
+           "name": "FPSensor"
+       }
+   ],
+   "website_url": "https://bananadroid.com",
+   "forum_url": "https://t.me/bananadroid"
+}
