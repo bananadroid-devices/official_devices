@@ -1,0 +1,9 @@
+- Patch Sec April
+- Upgrade IImsFactory to 1.1
+- Update QTI Radio LPA HAL to v1.1
+- Update Audio HIDL to 7.1
+- Update Adreno to LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0
+- Update leica camera 4.7.230127
+- Add dolby atmos
+- Semlohey default kernel based from aghisna
+- Upstream 4.14.313
