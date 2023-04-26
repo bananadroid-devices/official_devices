@@ -1,0 +1,20 @@
+{
+   "error": false,
+   "version": "13",
+   "url": "https://sourceforge.net/projects/bananadroid/files/tissot/BananaDroid-Tanduk-tissot-OFFICIAL-20230426-GApps.zip/download",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/tissot/BananaDroid-Tanduk-tissot-OFFICIAL-20230426-GApps.zip/download",
+   "datetime": 1682486763,
+   "filehash": "1ed7b4df4fb663e78ea3b3acc1d74bea",
+   "filename": "BananaDroid-Tanduk-tissot-OFFICIAL-20230426-GApps.zip",
+   "id": "f255a388135fee521379a8012763f09ad29d38f6adbf1df92b5b67e7a19f9d17",
+   "size": 1301552323,
+   "maintainers": [
+        {
+           "github_username": "hklknz",
+           "name": "hklknz"
+       }
+   ],
+   "donate_url": "https://paypal.me/travarilo",
+   "website_url": "https://bananadroid.com",
+   "forum_url": "https://t.me/bananadroid"
+}
