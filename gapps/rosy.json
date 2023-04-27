@@ -1,0 +1,20 @@
+{
+   "error": false,
+   "version": "13",
+   "url": "https://sourceforge.net/projects/bananadroid/files/rosy/BananaDroid-Tanduk-rosy-OFFICIAL-20230427-CoreGApps.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/rosy/BananaDroid-Tanduk-rosy-OFFICIAL-20230427-CoreGApps.zip",
+   "datetime": 1682573099,
+   "filehash": "949b378efa1f906906497605943c5717",
+   "filename": "BananaDroid-Tanduk-rosy-OFFICIAL-20230427-CoreGApps.zip",
+   "id": "a447950473c2f8ec6beaad514395bac5a28ef5ece6ef7dd3e4ebee767c3f2423",
+   "size": 1295478054,
+   "maintainers": [
+        {
+           "github_username": "aepranata",
+           "name": "aepranata"
+       }
+   ],
+   "donate_url": "https://paypal.me/travarilo",
+   "website_url": "https://bananadroid.com",
+   "forum_url": "https://t.me/bananadroid"
+}
