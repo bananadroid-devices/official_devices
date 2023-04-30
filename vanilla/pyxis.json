@@ -1,13 +1,13 @@
 {
    "error": false,
    "version": "13",
-   "url": "https://sourceforge.net/projects/bananadroid/files/pyxis/BananaDroid-Tanduk-pyxis-OFFICIAL-20230419-Vanilla.zip",
-   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/pyxis/BananaDroid-Tanduk-pyxis-OFFICIAL-20230419-Vanilla.zip",
-   "datetime": 1681942607,
-   "filehash": "7c6f77ded694fff39ae152ea5e190220",
-   "filename": "BananaDroid-Tanduk-pyxis-OFFICIAL-20230419-Vanilla.zip",
-   "id": "4d0daf01b8c514f35145b199c2a5551677016c19da03ce0d40902c6ffca68d50",
-   "size": 1508170527,
+   "url": "https://sourceforge.net/projects/bananadroid/files/pyxis/BananaDroid-Tanduk-pyxis-OFFICIAL-20230430-Vanilla.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/pyxis/BananaDroid-Tanduk-pyxis-OFFICIAL-20230430-Vanilla.zip",
+   "datetime": 1682796519,
+   "filehash": "ad4713682ec788ece863986733754d16",
+   "filename": "BananaDroid-Tanduk-pyxis-OFFICIAL-20230430-Vanilla.zip",
+   "id": "0083a6ec1c6c9ca06ae73cd71d656a22224f84211a2d5b8d99352f1a901ceb9c",
+   "size": 1514369215,
    "maintainers": [
       {
          "github_username": "DeadSomeOne",

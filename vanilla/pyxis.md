@@ -1,1 +1,1 @@
-Initial released
+Added Smart Charging
