@@ -1,13 +1,13 @@
 {
    "error": false,
    "version": "13",
-   "url": "https://sourceforge.net/projects/bananadroid/files/river/banana_river-ota-eng.fpsensor.zip/download",
-   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/river/banana_river-ota-eng.fpsensor.zip/download",
-   "datetime": 1682174907,
-   "filehash": "51fb5cc8a1a6ba9750ef7edb4b394e92",
-   "filename": "banana_river-ota-eng.fpsensor.zip",
-   "id": "20fe4576708a4d000f80faa4207538779b1929234aa8b27d70ea5b2249f7ffa0",
-   "size": 964995819,
+   "url": "https://sourceforge.net/projects/bananadroid/files/river/BananaDroid-Tanduk-river-OFFICIAL-20230503-Vanilla.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/river/BananaDroid-Tanduk-river-OFFICIAL-20230503-Vanilla.zip",
+   "datetime": 1683070176,
+   "filehash": "ba14b23bb76f01d2f1070c8465e2887f",
+   "filename": "BananaDroid-Tanduk-river-OFFICIAL-20230502-Vanilla.zip",
+   "id": "464442137369cfae0e793e82c8767b8d052c5f829c60d24dc6b1ffe7b9965442",
+   "size": 963606278,
    "maintainers": [
         {
            "github_username": "FPSensor",
