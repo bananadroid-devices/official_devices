@@ -1,0 +1,21 @@
+{
+{
+   "error": false,
+   "version": "13",
+   "url": "https://sourceforge.net/projects/bananadroid/files/surya/BananaDroid-Tanduk-surya-OFFICIAL-20230503-GApps.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/surya/BananaDroid-Tanduk-surya-OFFICIAL-20230503-GApps.zip",
+   "datetime": 1683154530,
+   "filehash": "e52b8b5b4dfa3fa90a1aa6f8ed0f604d",
+   "filename": "BananaDroid-Tanduk-surya-OFFICIAL-20230503-GApps.zip",
+   "id": "99a6c09624f8da1b997cdc6a98d173adb01eb1c73e61a5424cd356a5c86b3092",
+   "size": 2011055871,
+
+   "maintainers": [
+        {
+           "github_username": "rijak999",
+           "name": "MweTwo"
+       }
+   ],
+   "website_url": "https://bananadroid.com",
+   "forum_url": "https://t.me/bananadroid"
+}
