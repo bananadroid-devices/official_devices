@@ -1,0 +1,20 @@
+{
+   "error": false,
+   "version": "13",
+   "url": "https://sourceforge.net/projects/bananadroid/files/X00TD/BananaDroid-Tanduk-X00TD-OFFICIAL-20230504-Vanilla.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/X00TD/BananaDroid-Tanduk-X00TD-OFFICIAL-20230504-Vanilla.zip",
+   "datetime": 1683183650,
+   "filehash": "19ab096b43f470a96c5d447b1c95e095",
+   "filename": "BananaDroid-Tanduk-X00TD-OFFICIAL-20230504-Vanilla.zip",
+   "id": "004d85d6e4e4af8449965be0dbe5087265e5ac55e6d7d6c64eff3ac63a4cce8c",
+   "size": 1238001696,
+   "maintainers": [
+        {
+           "github_username": "RdW-afk",
+           "name": "Romeo_Delta_Whiskey"
+       }
+   ],
+   "donate_url": "https://paypal.me/travarilo",
+   "website_url": "https://bananadroid.com",
+   "forum_url": "https://t.me/bananadroid"
+}
