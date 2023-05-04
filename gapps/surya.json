@@ -1,5 +1,4 @@
 {
-{
    "error": false,
    "version": "13",
    "url": "https://sourceforge.net/projects/bananadroid/files/surya/BananaDroid-Tanduk-surya-OFFICIAL-20230503-GApps.zip",
@@ -9,7 +8,6 @@
    "filename": "BananaDroid-Tanduk-surya-OFFICIAL-20230503-GApps.zip",
    "id": "99a6c09624f8da1b997cdc6a98d173adb01eb1c73e61a5424cd356a5c86b3092",
    "size": 2011055871,
-
    "maintainers": [
         {
            "github_username": "rijak999",
