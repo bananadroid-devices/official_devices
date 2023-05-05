@@ -9,3 +9,8 @@ Device maintainer: aepranata
 * adding updater
 * fix can't play video
 * adding fm radio
+
+====================
+     27-04-2023
+====================
+* small improvement
