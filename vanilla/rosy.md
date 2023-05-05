@@ -4,6 +4,11 @@ Device: Xiaomi Redmi 5 (rosy)
 Device maintainer: aepranata
 
 ====================
+     05-05-2023
+====================
+* small improvement
+
+====================
      27-04-2023
 ====================
 * adding updater

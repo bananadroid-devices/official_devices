@@ -1,13 +1,13 @@
 {
    "error": false,
    "version": "13",
-   "url": "https://sourceforge.net/projects/bananadroid/files/rosy/BananaDroid-Tanduk-rosy-OFFICIAL-20230427-Vanilla.zip",
-   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/rosy/BananaDroid-Tanduk-rosy-OFFICIAL-20230427-Vanilla.zip",
-   "datetime": 1682595545,
-   "filehash": "2e31a6df7f5946d973d3923e6acc5cc1",
-   "filename": "BananaDroid-Tanduk-rosy-OFFICIAL-20230427-Vanilla.zip",
-   "id": "7a41e168d84a5272014af509d357206514b0213bb3fbc4673b2d27137bb28843",
-   "size": 1054335875,
+   "url": "https://sourceforge.net/projects/bananadroid/files/rosy/BananaDroid-Tanduk-rosy-OFFICIAL-20230505-Vanilla.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/rosy/BananaDroid-Tanduk-rosy-OFFICIAL-20230505-Vanilla.zip",
+   "datetime": 1683255879,
+   "filehash": "592759eaf725bee3ddeba257d180fef1",
+   "filename": "BananaDroid-Tanduk-rosy-OFFICIAL-20230505-Vanilla.zip",
+   "id": "c9c0fff1be6ccc8919098c348c04a8adcfa2c61d56c36ddb5ba2f5fb71e2f87c",
+   "size": 1066655766,
    "maintainers": [
         {
            "github_username": "aepranata",
