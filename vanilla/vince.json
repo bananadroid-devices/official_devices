@@ -1,0 +1,20 @@
+{
+   "error": false,
+   "version": "13",
+   "url": "https://sourceforge.net/projects/bananadroid/files/vince/BananaDroid-Tanduk-vince-OFFICIAL-20230507-Vanilla.zip",
+   "github_releases_url": "https://github.com/rom-builder/vince-BananaDroid/releases/download/v07-05-2023-1704/BananaDroid-Tanduk-vince-OFFICIAL-20230507-Vanilla.zip",
+   "datetime": 1683453415,
+   "filehash": "364d7ce71a6276c5cf5f90578a674a3a",
+   "filename": "BananaDroid-Tanduk-vince-OFFICIAL-20230507-Vanilla.zip",
+   "id": "7a7da0c8d5bbbf965110d3bdb8441e66c5f215fdd18f2b08336927c29ccd682b",
+   "size": 1048471119,
+   "maintainers": [
+        {
+           "github_username": "rabilrbl",
+           "name": "rabilrbl"
+       }
+   ],
+   "donate_url": "https://github.com/sponsors/rabilrbl",
+   "website_url": "https://bananadroid.com",
+   "forum_url": "https://t.me/bananadroid"
+}

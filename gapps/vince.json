@@ -1,0 +1,20 @@
+{
+   "error": false,
+   "version": "13",
+   "url": "https://sourceforge.net/projects/bananadroid/files/vince/BananaDroid-Tanduk-vince-OFFICIAL-20230507-GApps.zip",
+   "github_releases_url": "https://github.com/rom-builder/vince-BananaDroid/releases/download/v07-05-2023-1704/BananaDroid-Tanduk-vince-OFFICIAL-20230507-GApps.zip",
+   "datetime": 1683453415,
+   "filehash": "d34e0ecb27cd2e015ab3f02bddf6f27b",
+   "filename": "BananaDroid-Tanduk-vince-OFFICIAL-20230507-GApps.zip",
+   "id": "8f94593d2874eda1aca74a2ea34f4bf48d1373c585448beaf73f978e3287b77e",
+   "size": 1524579213,
+   "maintainers": [
+        {
+           "github_username": "rabilrbl",
+           "name": "rabilrbl"
+       }
+   ],
+   "donate_url": "https://github.com/sponsors/rabilrbl",
+   "website_url": "https://bananadroid.com",
+   "forum_url": "https://t.me/bananadroid"
+}
