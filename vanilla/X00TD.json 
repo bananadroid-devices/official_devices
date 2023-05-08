@@ -1,13 +1,13 @@
 {
    "error": false,
    "version": "13",
-   "url": "https://sourceforge.net/projects/bananadroid/files/X00TD/BananaDroid-Tanduk-X00TD-OFFICIAL-20230504-Vanilla.zip",
-   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/X00TD/BananaDroid-Tanduk-X00TD-OFFICIAL-20230504-Vanilla.zip",
-   "datetime": 1683183650,
-   "filehash": "19ab096b43f470a96c5d447b1c95e095",
-   "filename": "BananaDroid-Tanduk-X00TD-OFFICIAL-20230504-Vanilla.zip",
-   "id": "004d85d6e4e4af8449965be0dbe5087265e5ac55e6d7d6c64eff3ac63a4cce8c",
-   "size": 1238001696,
+   "url": "https://sourceforge.net/projects/bananadroid/files/X00TD/BananaDroid-Tanduk-X00TD-OFFICIAL-20230507-Vanilla.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/X00TD/BananaDroid-Tanduk-X00TD-OFFICIAL-20230507-Vanilla.zip",
+   "datetime": 1683437907,
+   "filehash": "abe3a282f5851804d43839e8128b4009",
+   "filename": "BananaDroid-Tanduk-X00TD-OFFICIAL-20230507-Vanilla.zip",
+   "id": "9bde692dc64867e33ba648cd356456da0b844153a1cc3443ff88d9e9648f0e88",
+   "size": 1170542124,
    "maintainers": [
         {
            "github_username": "RdW-afk",
