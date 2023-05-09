@@ -1,19 +1,14 @@
 {
    "error": false,
    "version": "13",
-   "url": "https://sourceforge.net/projects/bananadroid/files/fog/BananaDroid-Tanduk-fog-OFFICIAL-20230416-Vanilla.zip",
-   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/fog/BananaDroid-Tanduk-fog-OFFICIAL-20230416-Vanilla.zip",
-   "datetime": 1681689537,
-   "filehash": "aee28610102d5904b8d09a35e3c667fe",
-   "filename": "BananaDroid-Tanduk-fog-OFFICIAL-20230416-Vanilla.zip",
-   "id": "16d19e63ece2952678cdeeadd344378f192f2d12b1541bc308421d424d8f5c46",
-   "size": 1157100761,
-   "maintainers": [
-        {
-           "github_username": "Joxquin",
-           "name": "JA_Joxquin"
-       }
-   ],
+   "url": "https://sourceforge.net/projects/bananadroid/files/fog/BananaDroid-Tanduk-fog-OFFICIAL-20230509-Vanilla.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/fog/BananaDroid-Tanduk-fog-OFFICIAL-20230509-Vanilla.zip",
+   "datetime": 1683610057,
+   "filehash": "0e1b0247f5244e6dda5ae0e501987ea7",
+   "filename": "BananaDroid-Tanduk-fog-OFFICIAL-20230509-Vanilla.zip",
+   "id": "9b982d08d42f4f07ca65a666a2a89d66afd407c04a3100f0d2b403dd3e0caf8e",
+   "size": 1169023135,
+   "maintainers": "name": "JA_Joxquin",
    "donate_url": "https://paypal.me/travarilo",
    "website_url": "https://bananadroid.com",
    "forum_url": "https://t.me/bananadroid"
