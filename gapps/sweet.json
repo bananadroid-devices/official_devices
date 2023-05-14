@@ -1,13 +1,13 @@
 {
    "error": false,
    "version": "13",
-   "url": "https://sourceforge.net/projects/bananadroid/files/sweet/BananaDroid-Tanduk-sweet-OFFICIAL-20230425-CoreGApps.zip",
-   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/sweet/BananaDroid-Tanduk-sweet-OFFICIAL-20230425-CoreGApps.zip",
-   "datetime": 1682422439,
-   "filehash": "b63f39852e9c530b19adc000c9c483f5",
-   "filename": "BananaDroid-Tanduk-sweet-OFFICIAL-20230425-CoreGApps.zip",
-   "id": "208fcc9f305b4c0dab697dee24f6245e606cda9e87d9bc4f025f7f47f722694",
-   "size": 1594159653,
+   "url": "https://sourceforge.net/projects/bananadroid/files/sweet/BananaDroid-Tanduk-sweet-OFFICIAL-20230514-CoreGApps.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/sweet/BananaDroid-Tanduk-sweet-OFFICIAL-20230514-CoreGApps.zip",
+   "datetime": 1684034988,
+   "filehash": "2f14e52c2da8584b2dfbd42273b2b1f4",
+   "filename": "BananaDroid-Tanduk-sweet-OFFICIAL-20230514-CoreGApps.zip",
+   "id": "68980195b5d819262b69d808ca379ee6d11343f67707eacf14673e55eab1272",
+   "size": 1664978072,
    "maintainers": [
         {
            "github_username": "UnsatifsedError",
