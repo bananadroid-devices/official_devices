@@ -1,4 +1,18 @@
 ===========================
+
+BananaDroid alioth                                            14 May 2023
+
+===========================
+
+• Fixed Google photos spoofing
+
+• Removed memtrack
+
+• Use HintManager for HWUI
+
+• Preopt SystemUI
+
+===========================
 BananaDroid alioth                                            2 May 2023
 ===========================
 
