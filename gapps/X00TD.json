@@ -1,0 +1,20 @@
+{
+    "error": false,
+    "version": "13",
+    "url": "https://sourceforge.net/projects/bananadroid/files/X00TD/BananaDroid-Tanduk-X00TD-OFFICIAL-20230514-CoreGApps.zip",
+    "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/X00TD/BananaDroid-Tanduk-X00TD-OFFICIAL-20230514-CoreGApps.zip",
+    "datetime": 1684042374,
+    "filehash": "57bb4a5a4a15a0b5e2378d0ea9ba22a6",
+    "filename": "BananaDroid-Tanduk-X00TD-OFFICIAL-20230514-CoreGApps.zip",
+    "id": "0d91dbc91a1f8d8254a9ce89043e176051b8cc9c67f26a4d44275bbec5f8c3a9",
+    "size": 1399818909,
+    "maintainers": [
+         {
+            "github_username": "RdW-afk",
+            "name": "Romeo_Delta_Whiskey"
+        }
+    ],
+    "donate_url": "https://paypal.me/travarilo",
+    "website_url": "https://bananadroid.com",
+    "forum_url": "https://t.me/bananadroid"
+ }
