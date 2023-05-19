@@ -1,19 +1,20 @@
 {
    "error": false,
    "version": "13",
-   "url": "https://sourceforge.net/projects/bananadroid/files/YSL/BananaDroid-Tanduk-ysl-OFFICIAL-20230417-CoreGApps.zip",
-   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/YSL/BananaDroid-Tanduk-ysl-OFFICIAL-20230417-CoreGApps.zip",
-   "datetime": 1681694879,
-   "filehash": "753bb921f6d8fb705e18d0b330bbd098",
-   "filename": "BananaDroid-Tanduk-ysl-OFFICIAL-20230417-CoreGApps.zip",
-   "id": "4951d0fc13272fbe7fd22dfab9dad5fcdf8e394ca2732a237d4408256aaaec6d",
-   "size": 1293020045,
+   "url": "https://sourceforge.net/projects/bananadroid/files/YSL/gapps/BananaDroid-Tanduk-ysl-OFFICIAL-20230511-CoreGapps.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/YSL/gapps/BananaDroid-Tanduk-ysl-OFFICIAL-20230511-CoreGapps.zip",
+   "datetime": 1683818978,
+   "filehash": "11e2ddcd5c2e8b685cce397d2e5a096c",
+   "filename": "BananaDroid-Tanduk-ysl-OFFICIAL-20230511-CoreGapps.zip",
+   "id": "3c271ce8a97f1b4b9e745a9b0c389dcc04e7b626a936fdfc0c145b4f49dacb70",
+   "size": 1291014944,
    "maintainers": [
         {
            "github_username": "OnFire-Nasir",
            "name": "Nasir"
        }
    ],
+   "donate_url": "https://paypal.me/travarilo",
    "website_url": "https://bananadroid.com",
    "forum_url": "https://t.me/bananadroid"
 }
