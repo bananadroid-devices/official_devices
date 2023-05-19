@@ -7,7 +7,7 @@ May 2023
 
 ===========================
 
-• Merged with April security patch 
+• Merged with May security patch 
 • Fixed glitchy UI 
 • Fixed auto reboot
 • Gapps and Vanilla builds 
