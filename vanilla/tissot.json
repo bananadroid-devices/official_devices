@@ -1,13 +1,13 @@
 {
    "error": false,
    "version": "13",
-   "url": "https://sourceforge.net/projects/bananadroid/files/tissot/BananaDroid-Tanduk-tissot-OFFICIAL-20230426-Vanilla.zip/download",
-   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/tissot/BananaDroid-Tanduk-tissot-OFFICIAL-20230426-Vanilla.zip/download",
-   "datetime": 1682486763,
-   "filehash": "5c10d79c2e12abf0bf6e55d901541efc",
-   "filename": "BananaDroid-Tanduk-tissot-OFFICIAL-20230426-Vanilla.zip",
-   "id": "72ac3aefa24931818fee7953e3ffcdbaa1da50c48071b5f0ad5110adb3d2015e",
-   "size": 1012916899,
+   "url": "https://sourceforge.net/projects/bananadroid/files/tissot/BananaDroid-Tanduk-tissot-OFFICIAL-20230520-Vanilla.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/tissot/BananaDroid-Tanduk-tissot-OFFICIAL-20230520-Vanilla.zip",
+   "datetime": 1684566105,
+   "filehash": "49046ea06856d6ad8df1f0f0f6f6a769",
+   "filename": "BananaDroid-Tanduk-tissot-OFFICIAL-20230520-Vanilla.zip",
+   "id": "867153fb85d39ad50acd10ad70e39743337918ed17f3bca52be02dbfd35f2443",
+   "size": 1014266181,
    "maintainers": [
         {
            "github_username": "hklknz",
