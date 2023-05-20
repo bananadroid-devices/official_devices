@@ -1,13 +1,13 @@
 {
    "error": false,
    "version": "13",
-   "url": "https://sourceforge.net/projects/bananadroid/files/courbet/BananaDroid-Tanduk-courbet-OFFICIAL-20230502-Vanilla.zip",
-   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/courbet/BananaDroid-Tanduk-courbet-OFFICIAL-20230502-Vanilla.zip",
-   "datetime": 1683029420,
-   "filehash": "7a56367be17b2dd883c84cb51c20cf52",
-   "filename": "BananaDroid-Tanduk-courbet-OFFICIAL-20230502-Vanilla.zip",
-   "id": "ff4ed02ecb16b38d2258284a37675cc31b4576016ebf6dc4565345fd4dd9095b",
-   "size": 1535172815,
+   "url": "https://sourceforge.net/projects/bananadroid/files/courbet/BananaDroid-Tanduk-courbet-OFFICIAL-20230520-Vanilla.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/courbet/BananaDroid-Tanduk-courbet-OFFICIAL-20230520-Vanilla.zip",
+   "datetime": 1684584809,
+   "filehash": "051eb3d02e919d5babd3752779dee3e9",
+   "filename": "BananaDroid-Tanduk-courbet-OFFICIAL-20230520-Vanilla.zip",
+   "id": "cccf9bed1f08a7ca3f1ab1e2898752bc4ad6d18a45aa88fb7ba1d4e5a0929da7",
+   "size": 1526040468,
    "maintainers": [
         {
            "github_username": "travarilo",

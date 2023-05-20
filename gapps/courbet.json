@@ -1,13 +1,13 @@
 {
    "error": false,
    "version": "13",
-   "url": "https://sourceforge.net/projects/bananadroid/files/courbet/BananaDroid-Tanduk-courbet-OFFICIAL-20230502-GApps.zip",
-   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/courbet/BananaDroid-Tanduk-courbet-OFFICIAL-20230502-GApps.zip",
-   "datetime": 1683025159,
-   "filehash": "ddef0c07201a51f0948df3bf6af5d1a1",
-   "filename": "BananaDroid-Tanduk-courbet-OFFICIAL-20230502-GApps.zip",
-   "id": "327934dfce90733ef5d8712e1780e79b6d1b83155b3ec0fa215eb28f4241ff1e",
-   "size": 2150208685,
+   "url": "https://sourceforge.net/projects/bananadroid/files/courbet/BananaDroid-Tanduk-courbet-OFFICIAL-20230520-GApps.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/courbet/BananaDroid-Tanduk-courbet-OFFICIAL-20230520-GApps.zip",
+   "datetime": 1684588393,
+   "filehash": "aa094f255b2bfe9fea74f7c4983431af",
+   "filename": "BananaDroid-Tanduk-courbet-OFFICIAL-20230520-GApps.zip",
+   "id": "0c8d879cc982d23c0dcf3b64094d1900c144f0ea0f58d3d64f8c01fe1e59432c",
+   "size": 2118645223,
    "maintainers": [
         {
            "github_username": "travarilo",
