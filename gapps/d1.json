@@ -1,13 +1,13 @@
 {
    "error": false,
    "version": "13",
-   "url": "https://sourceforge.net/projects/bananadroid/files/d1/BananaDroid-Tanduk-FrEeRuNnEr4EvEr-d1-OFFICIAL-20230502-CoreGApps.zip",
-   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/d1/BananaDroid-Tanduk-FrEeRuNnEr4EvEr-d1-OFFICIAL-20230502-CoreGApps.zip",
-   "datetime": 1683067062,
-   "filehash": "83790ad52f32d5c447b9514e6c8475b3",
-   "filename": "BananaDroid-Tanduk-FrEeRuNnEr4EvEr-d1-OFFICIAL-20230502-CoreGApps.zip",
-   "id": "22c1612817b64f711c9f98d42d6b3f3bd3f0342cce6961999e8fa26861aec5e2",
-   "size": 1507068273,
+   "url": "https://sourceforge.net/projects/bananadroid/files/d1/BananaDroid-Tanduk-d1-OFFICIAL-20230520-CoreGApps.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/d1/BananaDroid-Tanduk-d1-OFFICIAL-20230520-CoreGApps.zip",
+   "datetime": 1684593424,
+   "filehash": "2bd2f87e228c213cea0e7b23825e2804",
+   "filename": "BananaDroid-Tanduk-d1-OFFICIAL-20230520-CoreGApps.zip",
+   "id": "63ce11009730968cf7f7fc4e3801233cd8923cec305e9131d6b45e2f4f4c24be",
+   "size": 1517927831,
    "maintainers": [
         {
            "github_username": "LeDrew2017",

@@ -1,13 +1,13 @@
 {
    "error": false,
    "version": "13",
-   "url": "https://sourceforge.net/projects/bananadroid/files/beyond2lte/BananaDroid-Tanduk-FrEeRuNnEr4EvEr-beyond2lte-OFFICIAL-20230502-CoreGApps.zip",
-   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/beyond2lte/BananaDroid-Tanduk-FrEeRuNnEr4EvEr-beyond2lte-OFFICIAL-20230502-CoreGApps.zip",
-   "datetime": 1683063248,
-   "filehash": "9c233d43549d468800a27a17bd8e7151",
-   "filename": "BananaDroid-Tanduk-FrEeRuNnEr4EvEr-beyond2lte-OFFICIAL-20230502-CoreGApps.zip",
-   "id": "d4d24a67aa6c378991327aa0f10459b522030a483e81694598a4876f4aff5be0",
-   "size": 1489547858,
+   "url": "https://sourceforge.net/projects/bananadroid/files/beyond2lte/BananaDroid-Tanduk-beyond2lte-OFFICIAL-20230520-CoreGApps.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/beyond2lte/BananaDroid-Tanduk-beyond2lte-OFFICIAL-20230520-CoreGApps.zip",
+   "datetime": 1684603791,
+   "filehash": "84be37821ee56b2a82d4e631a59f5426",
+   "filename": "BananaDroid-Tanduk-beyond2lte-OFFICIAL-20230520-CoreGApps.zip",
+   "id": "84c9c7081d43e98a1786536dc580efb5efa85779ed98d0e4f9d983739c08a534",
+   "size": 1499773991,
    "maintainers": [
         {
            "github_username": "LeDrew2017",
