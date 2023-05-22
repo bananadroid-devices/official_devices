@@ -1,21 +1,20 @@
 {
-  "error": false,
+   "error": false,
    "version": "13",
-   "url": 
-"https://sourceforge.net/projects/bananadroid/files/joyeuse/BananaDroid-Tanduk-joyeuse-OFFICIAL-20230419-GApps.zip",
-   "github_releases_url":
-   "https://sourceforge.net/projects/bananadroid/files/joyeuse/BananaDroid-Tanduk-joyeuse-OFFICIAL-20230419-GApps.zip",
-   "datetime": 1681612272,
-   "filehash": "e2cfca8d887aec26516a892cae2fa389",
-   "filename": "BananaDroid-Tanduk-courbet-OFFICIAL-20230416-GApps.zip",
-   "id": "013352adb3f9f8cf67430e85c306c72547cdd1a2d416262d97cedd2293399545",
-   "size": 2059655941,
+   "url": "https://sourceforge.net/projects/bananadroid/files/joyeuse/BananaDroid-Tanduk-joyeuse-OFFICIAL-20230521-GApps.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/joyeuse/BananaDroid-Tanduk-joyeuse-OFFICIAL-20230521-GApps.zip",
+   "datetime": 1684646874,
+   "filehash": "5fbd0a2b638cd2d2826325245337ad45",
+   "filename": "BananaDroid-Tanduk-joyeuse-OFFICIAL-20230521-GApps.zip",
+   "id": "3c22227b291c6d33bacd27ee938b906d0a5b1b01a3b7399771122c8cc461884f",
+   "size": 2000039730,
    "maintainers": [
         {
            "github_username": "anulalat",
            "name": "Curse"
-       }
+        }
    ],
+   "donate_url": "https://paypal.me/travarilo",
    "website_url": "https://bananadroid.com",
    "forum_url": "https://t.me/bananadroid"
 }
