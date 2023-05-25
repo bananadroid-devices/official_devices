@@ -27,3 +27,4 @@ Device Changelogs
 Notes
 • Treble ROM
 • KernelSU Supported
+• I'm Sorry Previously Update I Wrong Not Pushing CoreGApps Variant File :(

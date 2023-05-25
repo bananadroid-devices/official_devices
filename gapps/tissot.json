@@ -1,13 +1,13 @@
 {
    "error": false,
    "version": "13",
-   "url": "https://sourceforge.net/projects/bananadroid/files/tissot/BananaDroid-Tanduk-tissot-OFFICIAL-20230520-CoreGApps.zip",
-   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/tissot/BananaDroid-Tanduk-tissot-OFFICIAL-20230520-CoreGApps.zip",
-   "datetime": 1684566105,
-   "filehash": "54f07809f06ac6fafd3b244bc414035f",
+   "url": "https://sourceforge.net/projects/bananadroid/files/tissot/BananaDroid-Tanduk-tissot-OFFICIAL-20230523-CoreGApps.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/tissot/BananaDroid-Tanduk-tissot-OFFICIAL-20230523-CoreGApps.zip",
+   "datetime": 1684826701,
+   "filehash": "a92a4902a724b2c563b801229cc45f3e",
    "filename": "BananaDroid-Tanduk-tissot-OFFICIAL-20230520-CoreGApps.zip",
-   "id": "e7bf0bb31e8e68a9930b811dd917ce96e187bbf1948c9f805076116aebfdb86c",
-   "size": 1134574790,
+   "id": "896a1e8e017db6bc3efedfdc07eca6ac7fcab08a767059e3761bf5930f66fe56",
+   "size": 1212786325,
    "maintainers": [
         {
            "github_username": "hklknz",
