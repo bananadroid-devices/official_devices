@@ -1,13 +1,13 @@
 {
    "error": false,
    "version": "13",
-   "url": "https://sourceforge.net/projects/bananadroid/files/beryllium/BananaDroid-Tanduk-beryllium-OFFICIAL-20230420-GApps.zip",
-   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/beryllium/BananaDroid-Tanduk-beryllium-OFFICIAL-20230420-GApps.zip",
-   "datetime": 1682094689,
-   "filehash": "f76ded8c6376fac90e45a783df92127f",
-   "filename": "BananaDroid-Tanduk-beryllium-OFFICIAL-20230422-GApps.zip",
-   "id": "21a56bf91c58bb05fb0c244883edcc958119b0a07c195fea339b775c327bafc9",
-   "size": 1873883755,
+   "url": "https://sourceforge.net/projects/bananadroid/files/beryllium/BananaDroid-Tanduk-beryllium-OFFICIAL-20230524-GApps.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/beryllium/BananaDroid-Tanduk-beryllium-OFFICIAL-20230524-GApps.zip",
+   "datetime": 1684645440,
+   "filehash": "91414ef4ec0741d4e55881289b489979",
+   "filename": "BananaDroid-Tanduk-beryllium-OFFICIAL-20230524-GApps.zip",
+   "id": "f1c436a4984a59fd7a5ed60967166c6f460dc0828a35a33bb7f01cf00d27b981",
+   "size": 1872448681,
    "maintainers": [
         {
            "github_username": "zkyzzz",
