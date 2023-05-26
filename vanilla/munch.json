@@ -1,0 +1,20 @@
+{
+   "error": false,
+   "version": "13",
+   "url": "https://sourceforge.net/projects/bananadroid/files/munch/BananaDroid-Tanduk-munch-OFFICIAL-20230525-Vanilla.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/munch/BananaDroid-Tanduk-munch-OFFICIAL-20230525-Vanilla.zip",
+   "datetime": 1684831393,
+   "filehash": "69e74d7f8b11d16c8eeec8287b16c4cc",
+   "filename": "BananaDroid-Tanduk-munch-OFFICIAL-20230525-Vanilla.zip",
+   "id": "d7423e32cbad848806a9177bbf9e15514aa13bb0b8b9be51d2a49fb0ad075206",
+   "size": 1376325954,
+   "maintainers": [
+        {
+           "github_username": "Mudit",
+           "name": "Mudit"
+        }
+   ],
+   "donate_url": "https://paypal.me/travarilo",
+   "website_url": "https://bananadroid.com",
+   "forum_url": "https://t.me/bananadroid"
+}
