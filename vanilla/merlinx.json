@@ -1,0 +1,20 @@
+{
+   "error": false,
+   "version": "13",
+   "url": "https://sourceforge.net/projects/bananadroid/files/merlinx/BananaDroid-Tanduk-merlinx-OFFICIAL-20230603-Vanilla.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/merlinx/BananaDroid-Tanduk-merlinx-OFFICIAL-20230603-Vanilla.zip",
+   "datetime": 1685711966,
+   "filehash": "848ca27dcc16441c8b3e47b63c058a53",
+   "filename": "BananaDroid-Tanduk-merlinx-OFFICIAL-20230603-Vanilla.zip",
+   "id": "ab3b6a8e3b74d3326c18f20f17e5e900f6d85c3ba19ccf1a3b5c00e78484f824",
+   "size": 1223787868,
+   "maintainers": [
+        {
+           "github_username": "3l0w",
+           "name": "Fl0w"
+        }
+   ],
+   "donate_url": "https://paypal.me/travarilo",
+   "website_url": "https://bananadroid.com",
+   "forum_url": "https://t.me/bananadroid"
+}

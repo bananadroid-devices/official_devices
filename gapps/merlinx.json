@@ -1,0 +1,20 @@
+{
+   "error": false,
+   "version": "13",
+   "url": "https://sourceforge.net/projects/bananadroid/files/merlinx/BananaDroid-Tanduk-merlinx-OFFICIAL-20230603-CoreGApps.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/merlinx/BananaDroid-Tanduk-merlinx-OFFICIAL-20230603-CoreGApps.zip",
+   "datetime": 1685711966,
+   "filehash": "b72f2ade6b71617ba511bb02146b956c",
+   "filename": "BananaDroid-Tanduk-merlinx-OFFICIAL-20230603-CoreGApps.zip",
+   "id": "bd1ca1b66818cc12a976cb68a19b29005a07a8ba325e062814eae6316ca575ea",
+   "size": 1511004740,
+   "maintainers": [
+        {
+           "github_username": "3l0w",
+           "name": "Fl0w"
+        }
+   ],
+   "donate_url": "https://paypal.me/travarilo",
+   "website_url": "https://bananadroid.com",
+   "forum_url": "https://t.me/bananadroid"
+}
