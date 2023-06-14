@@ -1,13 +1,13 @@
 {
    "error": false,
    "version": "13",
-   "url": "https://sourceforge.net/projects/bananadroid/files/sakura/BananaDroid-Tanduk-sakura-OFFICIAL-20230415-Vanilla.zip",
-   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/sakura/BananaDroid-Tanduk-sakura-OFFICIAL-20230415-Vanilla.zip",
-   "datetime": 1681585496,
-   "filehash": "5675970108aae931ae08804d88632904",
-   "filename": "BananaDroid-Tanduk-sakura-OFFICIAL-20230415-Vanilla.zip",
-   "id": "9a7160059c379ed7a777fa5c963cc218f5dfbf2b7357fe13c132beca2d07b948",
-   "size": 1057458727,
+   "url": "https://sourceforge.net/projects/bananadroid/files/sakura/BananaDroid-Tanduk-sakura-OFFICIAL-20230613-Vanilla.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/sakura/BananaDroid-Tanduk-sakura-OFFICIAL-20230613-Vanilla.zip",
+   "datetime": 1686653005,
+   "filehash": "1cd14d836b6bf213dfab22c34a5850ae",
+   "filename": "BananaDroid-Tanduk-sakura-OFFICIAL-20230613-Vanilla.zip",
+   "id": "9e68ca6ba9ee7e8d4ab168f4e70b6d3bfe5ec65516148438f99c78e4b8633dd8",
+   "size": 1054940930,
    "maintainers": [
         {
            "github_username": "jayb71",
