@@ -1,0 +1,20 @@
+{
+    "error": false,
+    "version": "13",
+    "url": "https://sourceforge.net/projects/bananadroid/files/taimen/BananaDroid-Tanduk-taimen-OFFICIAL-20230624-GApps.zip",
+    "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/taimen/BananaDroid-Tanduk-taimen-OFFICIAL-20230624-GApps.zip",
+    "datetime": 1687601146,
+    "filehash": "68d56e8bfb2f9cc3e03c1d82081eda38",
+    "filename": "BananaDroid-Tanduk-taimen-OFFICIAL-20230624-GApps.zip",
+    "id": "4c622a9c1a3c0979483b3d370bdfc16abb3ebce279827a2f1208a6761e4676ad",
+    "size": 1517292327,
+    "maintainers": [
+         {
+            "github_username": "@asriadirahim",
+            "name": "@asriadirahim"
+         }
+    ],
+    "donate_url": "https://paypal.me/travarilo",
+    "website_url": "https://bananadroid.com",
+    "forum_url": "https://t.me/bananadroid"
+}
