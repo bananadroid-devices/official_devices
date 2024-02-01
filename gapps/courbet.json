@@ -1,0 +1,20 @@
+{
+   "error": false,
+   "version": "14",
+   "url": "https://sourceforge.net/projects/bananadroid/files/courbet/gapps/BananaDroid-Uli-courbet-OFFICIAL-20240201-GApps.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/courbet/gapps/BananaDroid-Uli-courbet-OFFICIAL-20240201-GApps.zip",
+   "datetime": 1706759232,
+   "filehash": "a8c4c0898f897dc229339d42551ad61d",
+   "filename": "BananaDroid-Uli-courbet-OFFICIAL-20240201-GApps.zip",
+   "id": "e44ad7add004684ea4bb1860788e97dd2bc6303d3a9023f5e80ffda5e3ac1582",
+   "size": 2169502439,
+   "maintainers": [
+        {
+           "github_username": "travarilo",
+           "name": "travarilo"
+        }
+   ],
+   "donate_url": "https://paypal.me/travarilo",
+   "website_url": "https://bananadroid.com",
+   "forum_url": "https://t.me/bananadroid"
+}

@@ -1,0 +1,20 @@
+{
+   "error": false,
+   "version": "14",
+   "url": "https://sourceforge.net/projects/bananadroid/files/courbet/vanilla/BananaDroid-Uli-courbet-OFFICIAL-20240201-Vanilla.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/courbet/vanilla/BananaDroid-Uli-courbet-OFFICIAL-20240201-Vanilla.zip",
+   "datetime": 1706748496,
+   "filehash": "4fa10d6d1e31b107a24c69fd47f385b4",
+   "filename": "BananaDroid-Uli-courbet-OFFICIAL-20240201-Vanilla.zip",
+   "id": "0c779dd4c0a8c158a36577c9c3737b7a71ef8df386136141500d92e99edf8bbf",
+   "size": 1602089012,
+   "maintainers": [
+        {
+           "github_username": "travarilo",
+           "name": "travarilo"
+        }
+   ],
+   "donate_url": "https://paypal.me/travarilo",
+   "website_url": "https://bananadroid.com",
+   "forum_url": "https://t.me/bananadroid"
+}
