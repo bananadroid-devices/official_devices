@@ -33,7 +33,7 @@ def fetch_new_downloads() -> dict:
             file_name = asset['name']
 
             # match the filename to a given regex, group 0 here is devicename
-            rom_name = re.match("^PixelOS_(.+?)-.+?\.zip$",file_name)
+            rom_name = re.match("^BananaDroid_(.+?)-.+?\.zip$",file_name)
 
             # if regex matches, get the device name, associate it with its download count
             if rom_name: 
@@ -61,7 +61,7 @@ def sf_download_count(path: str = None):
 
 def sf_per_device_count(device_list : list[str]) -> dict:
     _sf_json = {}
-    android_versions = ["13"]
+    android_versions = ["14"]
     for android in android_versions:
         _android_tmp = {}
         for device in device_list:

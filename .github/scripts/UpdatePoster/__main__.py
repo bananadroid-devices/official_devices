@@ -35,7 +35,7 @@ GITHUB_API_USER = "travarilo"  # GitHub username of owner of the above token
 # ID of channel where it needs to post [Requires admin with enough permissions]
 CHAT_ID = "-1001940393750"
 # Direct link to banner
-banner = "https://raw.githubusercontent.com/travarilo/banners/main/march.png"
+banner = "https://raw.githubusercontent.com/bananadroid/android_manifest/14/banner.png"
 json_dir = "./API/devices/"  # Directory where it should look for JSONs
 timeout = 1  # Time out before sending consecutive messages
 LOG_DIR = ".github/scripts/UpdatePoster/log.txt"

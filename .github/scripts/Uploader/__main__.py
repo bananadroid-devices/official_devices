@@ -25,7 +25,7 @@ import hashlib
 
 SF_PASS = os.environ.get("SF_PASS")
 
-android_version_text = "13"
+android_version_text = "14"
 
 try:
     new_tags = open("new_tags.txt", "r").readlines()
@@ -136,7 +136,7 @@ for tag in new_tags:
         "git pull",
         "git add .",
         "git commit -m \"official_devices: update tags [no ci]\"",
-        "git push origin 13",
+        "git push origin 14",
     ]
 
     for command in push_commands:
