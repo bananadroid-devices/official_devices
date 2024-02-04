@@ -1,0 +1,20 @@
+{
+   "error": false,
+   "version": "14",
+   "url": "https://sourceforge.net/projects/bananadroid/files/taimen/GApps/BananaDroid-Uli-taimen-OFFICIAL-20240203-GApps.zip/download",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/taimen/GApps/BananaDroid-Uli-taimen-OFFICIAL-20240203-GApps.zip/download",
+   "datetime": 1706939536,
+   "filehash": "56a16feb1a481075b0faf01578fde807",
+   "filename": "BananaDroid-Uli-taimen-OFFICIAL-20240203-GApps.zip",
+   "id": "f83a178d0b2df71f02c3ebceb1e3b4fc05dd9df435dd62581a06b68a627a07ac",
+   "size": 1778530554,
+   "maintainers": [
+        {
+           "github_username": "@asriadirahim",
+           "name": "@asriadirahim"
+        }
+   ],
+   "donate_url": "https://paypal.me/asriadirahim",
+   "website_url": "https://bananadroid.com",
+   "forum_url": "https://t.me/bananadroid"
+}
