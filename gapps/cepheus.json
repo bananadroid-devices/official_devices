@@ -1,0 +1,20 @@
+{
+   "error": false,
+   "version": "14",
+   "url": "https://sourceforge.net/projects/bananadroid/files/cepheus/BananaDroid-Uli-cepheus-OFFICIAL-20240205-GApps.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/cepheus/BananaDroid-Uli-cepheus-OFFICIAL-20240205-GApps.zip",
+   "datetime": 1707117057,
+   "filehash": "8ef0df748727044f0686c5e9ba06c7ae",
+   "filename": "BananaDroid-Uli-cepheus-OFFICIAL-20240205-GApps.zip",
+   "id": "24d9202ecf1758ae3e6f6a081356163a12ea22e747e6c1974299e5ee2d4a746f",
+   "size": 2115475051,
+   "maintainers": [
+        {
+           "github_username": "tribual",
+           "name": "tribual"
+        }
+   ],
+   "donate_url": "https://paypal.me/travarilo",
+   "website_url": "https://bananadroid.com",
+   "forum_url": "https://t.me/bananadroid"
+}
