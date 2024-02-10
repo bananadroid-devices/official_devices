@@ -1,4 +1,11 @@
 ---------------
+10 Februari 2024
+---------------
+
+• During call going to speakar it's fixed
+• Volume bar is fixed
+
+---------------
 09 Februari 2024
 ---------------
 
