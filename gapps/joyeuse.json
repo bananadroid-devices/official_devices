@@ -1,0 +1,20 @@
+{
+   "error": false,
+   "version": "14",
+   "url": "https://sourceforge.net/projects/bananadroid/files/joyeuse/BananaDroid-Uli-joyeuse-OFFICIAL-20240210-GApps.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/joyeuse/BananaDroid-Uli-joyeuse-OFFICIAL-20240210-GApps.zip",
+   "datetime": 1707304191,
+   "filehash": "5681a565176ae01d07ca173a521b5c9a",
+   "filename": "BananaDroid-Uli-joyeuse-OFFICIAL-20240210-GApps.zip",
+   "id": "13863448e520e6843f516b6002e65b2b7fb2a3461c0db223677e6903a6f90f23",
+   "size": 2160502355,
+   "maintainers": [
+        {
+           "github_username": "Curse",
+           "name": "Curse"
+        }
+   ],
+   "donate_url": "https://paypal.me/travarilo",
+   "website_url": "https://bananadroid.com",
+   "forum_url": "https://t.me/bananadroid"
+}
