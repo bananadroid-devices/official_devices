@@ -2,7 +2,7 @@
 10 Februari 2024
 ---------------
 
-• during call goimg to spekar it's fixed
+• During call going to speakar it's fixed
 • Volume bar is fixed
 
 ---------------
