@@ -1,0 +1,20 @@
+{
+   "error": false,
+   "version": "14",
+   "url": "https://sourceforge.net/projects/bananadroid/files/marble/gapps/BananaDroid-Uli-marble-OFFICIAL-20240227-GApps.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/marble/gapps/BananaDroid-Uli-marble-OFFICIAL-20240227-GApps.zip",
+   "datetime": 1708991372,
+   "filehash": "81129a7aa41abd7637b46ae686400311",
+   "filename": "BananaDroid-Uli-marble-OFFICIAL-20240227-GApps.zip",
+   "id": "218efa933d2ce84ed2785dbfe290b8a0db66dbcc59b6dde0f69bd2c432eb9a74",
+   "size": 2298734195,
+   "maintainers": [
+        {
+           "github_username": "KSSRAO",
+           "name": "KSSRAO"
+        }
+   ],
+   "donate_url": "https://paypal.me/travarilo",
+   "website_url": "https://bananadroid.com",
+   "forum_url": "https://t.me/bananadroid"
+}
