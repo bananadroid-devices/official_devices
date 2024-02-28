@@ -1,4 +1,14 @@
 ---------------
+28 Februari 2024
+---------------
+
+• Enable Optimized Power Management For Wifi
+• Added props for better signal
+• improved Ram Mangment
+• Screen Record Leg Fixed
+• Many More
+
+---------------
 10 Februari 2024
 ---------------
 

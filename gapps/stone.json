@@ -1,13 +1,13 @@
 {
    "error": false,
    "version": "14",
-   "url": "https://sourceforge.net/projects/bananadroid/files/stone/BananaDroid-Uli-stone-OFFICIAL-20240209-GApps.zip",
-   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/stone/BananaDroid-Uli-stone-OFFICIAL-20240209-GApps.zip",
-   "datetime": 170748702,
-   "filehash": "40a60b6825f3763330024b8deecbd6e3",
-   "filename": "BananaDroid-Uli-stone-OFFICIAL-20240209-GApps.zip",
-   "id": "afe3eae7e715c36f03e71d690d4005532a3c1cff76d801bc5cdac2303859852c",
-   "size": 1634040729,
+   "url": "https://sourceforge.net/projects/bananadroid/files/stone/BananaDroid-Uli-stone-OFFICIAL-20240227-GApps.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/stone/BananaDroid-Uli-stone-OFFICIAL-20240227-GApps.zip",
+   "datetime": 1709049601,
+   "filehash": "354bf3b6cc22d8e633ebc199130ac4f",
+   "filename": "BananaDroid-Uli-stone-OFFICIAL-20240227-GApps.zip",
+   "id": "bb77390537f3c296b646c4c442f25a10d063d0c18844ef9e77bc9f913f6b633",
+   "size": 1763140259,
    "maintainers": [
         {
            "github_username": "Thereache",
