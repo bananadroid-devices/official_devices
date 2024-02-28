@@ -1,4 +1,11 @@
 ---------------
+28 February 2024
+---------------
+Hotfix Release with following fixes:
+- Fixed Scrolling Lags
+- Fixed sms/otp issue that has been bugging us since longgg
+
+---------------
 27 February 2024
 ---------------
 - Based on HyperOS firmware
