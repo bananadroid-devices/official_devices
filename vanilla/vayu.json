@@ -1,0 +1,20 @@
+{
+   "error": false,
+   "version": "14",
+   "url": "https://sourceforge.net/projects/bananadroid/files/vayu/BananaDroid-Uli-vayu-OFFICIAL-20240307-Vanilla.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/vayu/BananaDroid-Uli-vayu-OFFICIAL-20240307-Vanilla.zip",
+   "datetime": 1709773031,
+   "filehash": "9fc3d84a66c2afc0ad0d6f348c373f2e",
+   "filename": "BananaDroid-Uli-vayu-OFFICIAL-20240307-Vanilla.zip",
+   "id": "e4507e9b341b52cda1f8009cba35b6d2d42692705f6363e364481a14f164e7ec",
+   "size": 1563771388,
+   "maintainers": [
+        {
+           "github_username": "mateoalfaro",
+           "name": "Gaba"
+        }
+   ],
+   "donate_url": "https://paypal.me/travarilo",
+   "website_url": "https://bananadroid.com",
+   "forum_url": "https://t.me/bananadroid"
+}

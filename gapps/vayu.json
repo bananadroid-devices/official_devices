@@ -1,0 +1,20 @@
+{
+   "error": false,
+   "version": "14",
+   "url": "https://sourceforge.net/projects/bananadroid/files/vayu/BananaDroid-Uli-vayu-OFFICIAL-20240306-GApps.zip",
+   "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/vayu/BananaDroid-Uli-vayu-OFFICIAL-20240306-GApps.zip",
+   "datetime": 1709755182,
+   "filehash": "f3675129d120e12302728209caf87ccc",
+   "filename": "BananaDroid-Uli-vayu-OFFICIAL-20240306-GApps.zip",
+   "id": "8ddadd389307bca556f04857e31717c2c7dcb6e2db0107f098c8c7832cdb0acc",
+   "size": 2175950046,
+   "maintainers": [
+        {
+           "github_username": "mateoalfaro",
+           "name": "Gaba"
+        }
+   ],
+   "donate_url": "https://paypal.me/travarilo",
+   "website_url": "https://bananadroid.com",
+   "forum_url": "https://t.me/bananadroid"
+}
