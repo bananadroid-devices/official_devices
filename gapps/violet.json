@@ -1,0 +1,20 @@
+{
+    "error": false,
+    "version": "14",
+    "url": "https://sourceforge.net/projects/bananadroid/files/violet/BananaDroid-Uli-violet-OFFICIAL-20240318-GApps.zip",
+    "github_releases_url": "https://sourceforge.net/projects/bananadroid/files/violet/BananaDroid-Uli-violet-OFFICIAL-20240318-GApps.zip",
+    "datetime": 1710756839,
+    "filehash": "5c86f647c5cc5078992a4f5b809c10e0",
+    "filename": "BananaDroid-Uli-violet-OFFICIAL-20240318-GApps.zip",
+    "id": "35fb9029427431cf39b6119c8347c2c0efd480cb9815bc5642fbc38770d0729a",
+    "size": 2421289744,
+    "maintainers": [
+         {
+            "github_username": "kibria5",
+            "name": "kibria5"
+         }
+    ],
+    "donate_url": "https://paypal.me/travarilo",
+    "website_url": "https://bananadroid.com",
+    "forum_url": "https://t.me/bananadroid"
+ }
